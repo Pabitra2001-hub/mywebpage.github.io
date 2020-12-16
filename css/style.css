@@ -1,0 +1,332 @@
+.leftnav{
+    /* position: absolute; */
+    margin-left: 49rem;
+}
+.color-only{
+    background: linear-gradient(-45deg,rgb(68, 68, 223),rgb(106, 226, 106));   
+}
+.name.navbar-brand{
+    margin-left: 1rem;
+    font-weight: 600;
+    margin-top: 1.3;
+}
+.maindiv{
+    /* background-color: rgb(51, 189, 194); */
+   /* background: linear-gradient(-45deg,rgb(68, 68, 223),rgb(106, 226, 106));*/
+    height: 40rem;
+   
+}
+.h1,h1,h1{
+    font-size: 4.5rem;
+    margin-left: 7rem;
+    /* margin-top: 2rem; */
+}
+
+.h5{
+    font-size: 3rem;
+    width: 43rem;
+
+}
+.para{
+    /* width: 1rem; */
+    position: absolute;
+    left: 7rem;
+    top: 25rem;
+}
+.imge{
+    margin-left: 51rem;
+    /* margin-bottom: 20rem; */
+    margin-top: -13rem;
+   
+}
+.pnav{
+ /*  background-color: rgb(51, 189, 194);*/
+ margin-top: -2rem;
+
+}
+.btn1{
+    /* position: absolute; */
+    margin-bottom: 3rem;
+   margin-left: 17rem;
+   margin-top: -21rem;
+    width: 15rem;
+    /* width: 14rem;*/
+    
+}
+
+ul{
+    display: flex;
+    margin-top: 2rem;
+
+}
+li{
+    list-style: none;
+}
+.logos2 img{
+    height: 55px;
+    margin-top: 5rem;
+    margin-left: 6rem;
+}
+.logos1 img{
+    height: 41px;
+    margin-top: 5rem;
+    margin-left: 4rem;
+
+}
+.logos3 img{
+    height: 41px;
+    margin-top: 5rem;
+    margin-left: 6rem;
+}
+
+.logos4 img{
+    height: 41px;
+    margin-top: 5rem;
+    margin-left: 7rem;
+}
+
+.logos5 img{
+
+    height: 41px;
+    margin-top: 5rem;
+    margin-left: 9rem;
+}
+
+.logos6 img{
+    height: 41px;
+    margin-top: 5rem;
+    margin-left: 9rem;
+
+}
+.bltext{
+   position: absolute;
+    left: 35rem;
+    top: 48rem;
+    opacity: 0.3;
+}
+.card1{
+    /* position: absolute; */
+    height: 4rem;
+    width: 5rem;
+    margin-top: 0rem;
+   margin-left: 6rem;
+
+}
+.cardsize{
+   height: 20rem;
+}
+p{
+    margin-top: 21px;
+    margin-bottom: 2rem;
+}
+.card-title1{
+    position: absolute;
+    top: -3rem;
+    left: 3.5rem;
+}
+.card-title2{
+    position: absolute;
+    top: -3rem;
+    left: 3.5rem;
+}
+.card-title3{
+    position: absolute;
+    top: -3rem;
+    left: 3.5rem;
+}
+.cardsize2{
+    height: 20rem; 
+}
+.card2{
+    /* position: absolute; */
+    height: 4rem;
+    width: 5rem;
+    margin-top: 0rem;
+    margin-left: 6rem;
+}
+.cardsize3{
+    height: 20rem; 
+}
+.card3{
+    /* position: absolute; */
+    height: 4rem;
+    width: 5rem;
+    margin-top: 0rem;
+    margin-left: 9rem;
+}
+.card-text3{
+    margin-left: 4rem;
+    width: 14rem;
+}
+.btn2{
+margin-left: 3rem;
+}
+.btn3{
+    margin-left: 4rem;
+}
+.btn4{
+    margin-left: 7rem;
+}
+
+.btn-row2-primary{
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    margin-left: 0rem;
+}
+
+.card-row{
+    position: absolute;
+    top: 67rem;
+    left: 14rem;
+}
+.bltext2{
+    margin-left: 42rem;
+    margin-top: 1.5rem;
+    opacity: 0.3;
+}
+.card-row container{
+    margin-top: 1rem;
+}
+.card-row2{
+    margin-top: 40rem;
+    margin-left: 14rem;
+}
+.card-row2-bg{
+    background-color: slateblue ! important ;
+}
+
+.card-row2-para1{
+    position: absolute;
+    top: 86rem;
+    left: 44rem;
+    opacity: 0.3;
+}
+.card-row2-para2{
+    position: absolute;
+    top: 90rem ;
+    left: 29.9rem;
+    font-weight: bolder;
+}
+.card-row2-para3{
+    position: absolute;
+    top: 93rem;
+    left: 33.5rem;
+    font-weight: bolder;
+}
+.card-row3{
+margin-top: 3rem;
+margin-left: 16rem;
+
+}
+.team{
+    height: 6rem;
+}
+.team-text{
+    margin-top: 1rem;
+    margin-left: 4rem;
+    opacity: 0.4;
+}
+.team-text2{
+    margin-top: 1rem;
+    margin-left: -1rem;
+    
+}
+.pabitra{
+    margin-left: 2rem;
+    
+}
+.soumyadip{
+    margin-left: 3rem;
+    opacity: 0.4;
+}
+.debu{
+    margin-left: 1rem;
+   
+}
+.card-row3-text{
+    margin-left: 43rem;
+    margin-top: 3rem;
+    opacity: 0.3;
+}
+.con-tex{
+    position: absolute;
+    top: 167rem;
+    left: 21rem;
+}
+.imge2{
+    height: 83px;
+    margin-left: 26rem;
+    margin-top: -14rem;
+    opacity: 0.3;
+}
+.main-text{
+    position: absolute;
+    font-weight: 700;
+    left: 5rem;
+    top: -3rem;
+}
+
+.main-text2{
+    /* position: absolute; */
+    font-weight: 700;
+    left: 4rem;
+    top: -2rem;
+}
+
+.blur-text{
+    position: absolute;
+    margin-top: -13rem;
+    margin-left: 21.5rem;
+    opacity: 0.3;
+}
+.follow{
+    margin-left: 23rem;
+    margin-top: 5rem;
+    background-color: steelblue;
+}
+.footer{
+    display: flex;
+    margin-top: 39rem; 
+    background-color: royalblue;
+}
+.line1{
+    margin-left: -3rem;
+}
+.line2{
+margin-left: 12rem;
+}
+.line3{
+margin-left: 12rem;
+}
+.line4{
+margin-left: 15rem;
+}
+.para1{
+margin-left: -5rem;
+margin-top: 2rem;
+}
+.para2{
+margin-left: 13rem;
+margin-top: 2rem;
+}
+.para3{
+margin-left: 14rem;
+margin-top: 2rem;
+}
+.para4{
+margin-left: 16rem;
+margin-top: 2rem;
+}
+.footercol{
+    /* background-color: royalblue; */
+}
+.price2{
+    margin-top: -2rem;
+}
+.price4{
+    margin-top: -2rem;
+}
+.price6{
+    margin-top: -2rem;
+}
